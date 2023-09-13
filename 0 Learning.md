@@ -1,0 +1,24 @@
+- [ ] finish Scrumdinger
+- [ ] go through 100 days of Swift
+- [ ] go through 100 days of SwiftUI
+- [ ] get started on photos app
+	- [ ] get through initial version
+		- [ ] see if you can distribute
+	- [ ] make Trailforks
+	- [ ] if you can, great! put it out there
+	- [ ] otherwise, go through CS193P
+- [ ] contribute to open source - make your own gym routine tracker
+	- [ ] Strong but with more integrations
+	- [ ] day photo filter
+		- [ ] make albums
+		- [ ] trim videos
+		- [ ] put them together
+- [ ] build personal site, showcasing features
+- [ ] make Strong clone
+	- [ ] rest time by default
+- [ ] contribute to open source
+	- [ ] Rise app
+- [ ] learn more
+	- [ ] UIKit fundamentals
+- [ ] learn iOS performance optimization
+- [ ] make Bucket List app
